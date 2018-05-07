@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="wlv_borderColor">#591f1f</color>
+    <color name="wlv_titleCenterStrokeColor">#c44444</color>
+</resources>
